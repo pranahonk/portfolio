@@ -3,7 +3,7 @@
 
 module.exports = {
   siteConfig: {
-    description: 'An unsung artist.',
+    description: 'An happy Sofware Enginner.',
     url: 'https://create-portfolio-demo.saber.land'
   },
 
