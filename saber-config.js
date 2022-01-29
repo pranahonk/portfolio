@@ -73,7 +73,7 @@ module.exports = {
       },
       {
         topic: 'c',
-        description: `I love it, because lack of built in function`,
+        description: `I love it, fast and powerful`,
         // `image` is optional, by default we load from GitHub
         image: 'https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png'
       },
@@ -84,7 +84,7 @@ module.exports = {
       },
       {
         topic: 'css',
-        description: `A language used most often to style and improve upon the appearance of websites.`,
+        description: `A language to improve the appearance of websites.`,
         image: 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'
       },
       {
