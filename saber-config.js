@@ -76,6 +76,22 @@ module.exports = {
         description: `I love it, because lack of built in function`,
         // `image` is optional, by default we load from GitHub
         image: 'https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png'
+      },
+      {
+        topic: 'babel',
+        description: `An Javascript compiler`,
+        image: 'https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png'
+      },
+      {
+        topic: 'css',
+        description: `A language used most often to style and improve upon the appearance of websites.`,
+        image: 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'
+      },
+      {
+        topic: 'laravel',
+        description: `The PHP Framework for Web Artisans.`,
+        // `image` is optional, by default we load from GitHub
+        image: 'https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png'
       }
     ],
   },
