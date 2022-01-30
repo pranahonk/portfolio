@@ -22,11 +22,11 @@ ___
 
 
 <p align="center">
-  <img alt="Light" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Fphoto1643530678%20(1).jpeg?alt=media&token=845500e9-262e-44c9-b582-aa70b9daf94e" width="30%">
+  <img alt="Light" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Fphoto1643530678%20(1).jpeg?alt=media&token=845500e9-262e-44c9-b582-aa70b9daf94e" width="31%">
   &nbsp; &nbsp;
-  <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Fphoto1643530678.jpeg?alt=media&token=d501f2c8-b949-4e3f-89a7-8825c5590a65" width="30%">
+  <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Fphoto1643530678.jpeg?alt=media&token=d501f2c8-b949-4e3f-89a7-8825c5590a65" width="31%">
   &nbsp; &nbsp;
-   <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Fphoto1643530677.jpeg?alt=media&token=ab19d272-c1c3-40a5-8115-a3fb42daddbe" width="30%">
+   <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Fphoto1643530677.jpeg?alt=media&token=ab19d272-c1c3-40a5-8115-a3fb42daddbe" width="31%">
 </p>
 
 <br/>
@@ -50,11 +50,11 @@ ___
 <br/>
 
 <p align="center">
-  <img alt="Light" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Ftelunjuk%2Ftelunjuk-mobile%2Fphoto1643533544%20(1).webp?alt=media&token=051d7ed5-79f0-469b-8fbf-3c25a0b25337" width="30%">
+  <img alt="Light" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Ftelunjuk%2Ftelunjuk-mobile%2Fphoto1643533544%20(1).webp?alt=media&token=051d7ed5-79f0-469b-8fbf-3c25a0b25337" width="31%">
   &nbsp; &nbsp;
-  <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Ftelunjuk%2Ftelunjuk-mobile%2Fphoto1643533544%20(2).webp?alt=media&token=44b0ff50-a242-4ea2-a9aa-b4090c6a6f61" width="30%">
+  <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Ftelunjuk%2Ftelunjuk-mobile%2Fphoto1643533544%20(2).webp?alt=media&token=44b0ff50-a242-4ea2-a9aa-b4090c6a6f61" width="31%">
   &nbsp; &nbsp;
-   <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Ftelunjuk%2Ftelunjuk-mobile%2Fphoto1643533544.webp?alt=media&token=38dc9d46-754b-4b72-9066-b5ae9eabe70d" width="30%">
+   <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Ftelunjuk%2Ftelunjuk-mobile%2Fphoto1643533544.webp?alt=media&token=38dc9d46-754b-4b72-9066-b5ae9eabe70d" width="31%">
 </p>
 
 <br/>
@@ -104,9 +104,9 @@ ___
 <br/>
 
 <p align="center">
-  <img alt="Light" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FIndoesports%2Fphoto6319091696939413194.jpg?alt=media&token=f6bd3495-49c6-45b4-a0a8-14e2f499915a" width="30%">
+  <img alt="Light" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FIndoesports%2Fphoto6319091696939413194.jpg?alt=media&token=f6bd3495-49c6-45b4-a0a8-14e2f499915a" width="31%">
   &nbsp; &nbsp;
-  <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FIndoesports%2Fphoto6319091696939413193.jpg?alt=media&token=ea3919a8-4ebe-4d4e-a8c3-0e4ca25323e1" width="30%">
+  <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FIndoesports%2Fphoto6319091696939413193.jpg?alt=media&token=ea3919a8-4ebe-4d4e-a8c3-0e4ca25323e1" width="31%">
   &nbsp; &nbsp;
-   <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FIndoesports%2Fphoto6319091696939413192.jpg?alt=media&token=585850e3-7742-4f5d-9852-92113cafbbc0" width="30%">
+   <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FIndoesports%2Fphoto6319091696939413192.jpg?alt=media&token=585850e3-7742-4f5d-9852-92113cafbbc0" width="31%">
 </p>
