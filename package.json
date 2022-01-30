@@ -9,8 +9,6 @@
     "deploy": "npm run build && firebase deploy"
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3",
-    "medium-to-markdown": "^0.0.3",
     "saber": "^0.9.0",
     "saber-plugin-feed": "^0.4.2",
     "saber-plugin-query-posts": "^0.4.2",
