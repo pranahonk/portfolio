@@ -14,5 +14,8 @@
     "saber-plugin-feed": "^0.4.2",
     "saber-plugin-query-posts": "^0.4.2",
     "saber-theme-portfolio": "^0.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
   }
 }

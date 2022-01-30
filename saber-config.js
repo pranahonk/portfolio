@@ -3,7 +3,7 @@
 
 module.exports = {
   siteConfig: {
-    description: 'An happy Sofware Enginner.',
+    description: 'A happy Sofware Enginner',
     url: 'https://create-portfolio-demo.saber.land'
   },
 
@@ -26,6 +26,10 @@ module.exports = {
       {
         text: 'About',
         link: '/about'
+      },
+      {
+        text: 'Portfolio',
+        link: '/portfolio'
       }
     ],
     skills: [
@@ -98,7 +102,8 @@ module.exports = {
 
   permalinks: {
     page: '/:slug',
-    post: '/posts/:slug'
+    post: '/posts/:slug',
+    portfolio: '/portfolio',
   },
 
   plugins: [
