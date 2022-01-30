@@ -1,19 +1,71 @@
 ---
-title: My First Post
+title: Export your Medium posts to Markdown
 layout: post
-date: 2018-08-12
+date: 2018-02-13
 tags:
-  - life
+  - Tutorial
 ---
 
-date: 2018-08-12
 
-Consectetur nostrud elit do do do nisi quis. Cillum commodo Lorem sunt non sit velit nostrud fugiat. Et ad anim sint veniam occaecat nulla eu id irure occaecat nulla excepteur elit sint. Tempor dolor dolore aute excepteur nisi Lorem incididunt excepteur magna sint proident in voluptate dolore. Anim eiusmod ea sint velit enim irure est enim duis eiusmod. Culpa ea ea duis anim esse culpa anim laborum proident deserunt quis nisi. Laborum in irure aute consectetur enim cillum incididunt mollit.
+There’s a simple solution to avoid copy/pasting and re-editing your Medium articles.
 
-Ullamco non incididunt adipisicing duis. Laborum consectetur occaecat veniam nisi amet consectetur laborum cupidatat culpa aute dolor id. Velit consectetur officia commodo elit. Qui officia adipisicing irure laboris non ullamco est cupidatat eu non Lorem excepteur. Ex cupidatat aliqua eu amet consequat Lorem excepteur reprehenderit consectetur.
+![](https://miro.medium.com/max/1080/1*QDYH5xE3GnM_7spZ0eSuog.png)
 
-Adipisicing nulla sunt ipsum ipsum ea Lorem aliquip et incididunt cillum eiusmod aliquip Lorem culpa. Voluptate laborum id eu exercitation esse aliqua id reprehenderit enim consequat dolor eu excepteur. Qui ut est ex aute ullamco exercitation id. Commodo reprehenderit exercitation et incididunt officia aute eu nostrud nisi eiusmod ipsum.
 
-Do occaecat consectetur nisi proident excepteur pariatur esse nisi. Aute magna proident consectetur mollit Lorem non est ad ea non proident. Anim reprehenderit ut adipisicing commodo veniam sit. Nostrud eu sint labore culpa proident laborum do adipisicing nostrud esse. Nostrud anim adipisicing irure aliquip incididunt ea ea.
 
-Cupidatat id occaecat proident officia. Laboris in incididunt ut dolor in qui amet nostrud ad exercitation minim nulla consectetur. Occaecat dolor labore eu nostrud nulla nulla ex dolore.
+First of all, you need to install node on your computer.
+
+There is an installer for node for all platforms, just download it and install it like you would any other program:
+
+- ***[https://nodejs.org/en/download/](https://nodejs.org/en/download/)***
+
+Once you have this installed, you fire up the **Command Prompt** on **Windows** or **Terminal** on **MacOS** or **Linux** and run this command.
+
+```python
+npm install -g mediumexporter
+```
+
+This installs **mediumexporter**. Once installed, you can export your Medium post to markdown format.
+
+Go to the directory where you want to file to be exported to.
+
+***(on Windows)***
+
+```bash
+cd c:\Users(username)\Desktop 
+```
+    
+
+***(on Mac)***
+```bash
+cd ~/Desktop
+```
+
+
+Next type on 1 line:
+
+```bash
+mediumexporter [https://medium.com/p/export-your-medium-posts-to-markdown-b5ccc8cb0050](https://medium.com/@yeong.crypto/export-your-medium-posts-to-markdown-b5ccc8cb0050) > medium_post.md
+```
+
+    
+
+You’ll see a file called **medium_post.md** containing your Medium post in markdown format. You might have to adjust a couple of things, but most of the time it’s fairly good at preserving formatting and structure.
+
+If you want it copied directly to your clipboard (on OSX) you can add the following **(| pbcopy)** :
+
+```bash
+mediumexporter [https://medium.com/p/export-your-medium-posts-to-markdown-b5ccc8cb0050](https://medium.com/@yeong.crypto/export-your-medium-posts-to-markdown-b5ccc8cb0050) | pbcopy
+```
+    
+
+If you don’t like command line solutions there are also a **Google Chrome Extensions**, although they’re good and fast the result often does require a bit more editing:
+
+- **[https://chrome.google.com/webstore/detail/convert-medium-posts-to-m/aelnflnmpbjgipamcogpdoppjbebnjea?hl=en](https://chrome.google.com/webstore/detail/convert-medium-posts-to-m/aelnflnmpbjgipamcogpdoppjbebnjea?hl=en)**
+- **[https://chrome.google.com/webstore/detail/export-to-markdown/dodkihcbgpjblncjahodbnlgkkflliim?hl=en](https://chrome.google.com/webstore/detail/export-to-markdown/dodkihcbgpjblncjahodbnlgkkflliim?hl=en)**
+- **[https://chrome.google.com/webstore/detail/medium-article-downloader/nhbfnahbjjaaplgnkffponncahohkfbb?hl=en](https://chrome.google.com/webstore/detail/medium-article-downloader/nhbfnahbjjaaplgnkffponncahohkfbb?hl=en)**
+
+![If you enjoyed reading the article don’t forget to applaud.](https://cdn-images-1.medium.com/max/2000/1*eHf64Iyl2VhGN5WVOiu1rw.gif)
+<div style="font-style: italic; text-align: center;" markdown="1">
+    If you enjoyed reading the article don’t forget to applaud.
+</div>
