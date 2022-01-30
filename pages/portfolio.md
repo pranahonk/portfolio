@@ -14,7 +14,7 @@ ___
 [![License](https://poser.pugx.org/aimeos/aimeos-typo3/license.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
 
 
-[RCTI+](https://rctiplus.com/) is a mobile application with AVOD (audio and video service on demand) and live streaming services. This app is ad-driven and free. This application was developed by PT MNC Digital Indonesia, a subsidiary of Media Nusantara Citra..
+[RCTI+](https://rctiplus.com/) is a mobile application with AVOD (audio and video service on demand) and live streaming services. This app is ad-driven and free. This application was developed by PT MNC Digital Indonesia, a subsidiary of Media Nusantara Citra. 
 
 [![Aimeos TYPO3 demo](https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FRCTI%2B%2FRcti%20homepage.webp?alt=media&token=02eff4a9-de9e-47a8-9dd5-b30f90490003)](https://www.rctiplus.com/)
 
@@ -24,7 +24,7 @@ ___
 <p align="center">
   <img alt="Light" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Fphoto1643530678%20(1).jpeg?alt=media&token=845500e9-262e-44c9-b582-aa70b9daf94e" width="31%">
   &nbsp; &nbsp;
-  <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Fphoto1643530678.jpeg?alt=media&token=d501f2c8-b949-4e3f-89a7-8825c5590a65" width="31%">
+  <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Fphoto1643530678.jpeg?alt=media&token=d501f2c8-b949-4e3f-89a7-8825c5590a65" width="30%">
   &nbsp; &nbsp;
    <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2Fphoto1643530677.jpeg?alt=media&token=ab19d272-c1c3-40a5-8115-a3fb42daddbe" width="31%">
 </p>
@@ -97,6 +97,7 @@ ___
 
 # Indoesports
 ___
+
 [Indoesports](https://www.indoesports.com/) is a company that operates and lives in the Indonesian esports industry ecosystem. INDOESPORTS has active media products since 2017. Through two ways, namely the official website (www.indoesports.com) and social media (Instagram @indo.esports). INDOESPORTS media actively covers and reports about the world of esports, from tournaments, the latest game information to the latest news about the esports business.
 
 [![Indoesports Homepage Demo](https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FIndoesports%2FIndoesports-homepage.webp?alt=media&token=3340ec87-b1bf-46fa-9f6f-b454e8d5ffe5)](https://www.indoesports.com/)
@@ -110,3 +111,30 @@ ___
   &nbsp; &nbsp;
    <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FIndoesports%2Fphoto6319091696939413192.jpg?alt=media&token=585850e3-7742-4f5d-9852-92113cafbbc0" width="31%">
 </p>
+
+<br/>
+<br/>
+
+# Xetia
+___
+[Xetia](https://xetia.io/) Companies that have a strong hold in the field of Artificial Intelligence, are able to carry out various analyzes by utilizing the most updated technology to perform all digital activities instantly.
+
+[![Brilian Muda Homepage Demo](https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FXetia%2Fxetia%20homepage.jpg?alt=media&token=825937f5-2911-48a6-aad8-6d370e413a62)](https://xetia.io/)
+
+<p align="center">
+  <img alt="Light" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FXetia%2Fphoto6319091696939413238.jpg?alt=media&token=5c3148e7-31ad-4579-84db-4454ec15ab81" width="31%">
+  &nbsp; &nbsp;
+  <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FXetia%2Fphoto6319091696939413237.jpg?alt=media&token=b762f46a-453b-4f6e-a85b-9324f97a931a" width="31%">
+  &nbsp; &nbsp;
+   <img alt="Dark" src="https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FXetia%2Fphoto6319091696939413236.jpg?alt=media&token=e4ed60a5-de3c-4e96-b5c9-a7fdddd8fd64" width="31%">
+</p>
+
+<br/>
+<br/>
+
+
+# Brilian Muda
+___
+[Brilian Muda](https://www.brilianmuda.com/) one of vendor in health sector, when I am here i did the project with Kalbe farma to make CMS
+
+[![Brilian Muda Homepage Demo](https://firebasestorage.googleapis.com/v0/b/prana-portfolio.appspot.com/o/image%2FBrilian%20Muda%2Fkalbe-cms.jpg?alt=media&token=712c746c-d11a-4587-b631-0ef24badefd0)](https://www.brilianmuda.com/)
