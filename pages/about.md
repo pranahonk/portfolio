@@ -1,16 +1,28 @@
 ---
-title: About
+title: Know Who I'M
 layout: page
 ---
 
-Nostrud et dolor aliquip qui magna adipisicing cillum cillum nisi culpa aliquip exercitation. Dolor reprehenderit sint laborum in nisi deserunt culpa ea irure do sit veniam fugiat. Sit ipsum esse excepteur ad sunt reprehenderit in duis. Et non voluptate esse eu elit duis nulla esse veniam.
 
-Culpa sit sit cupidatat nulla sit minim fugiat. Cupidatat tempor ut ut Lorem aliqua id pariatur ex velit enim occaecat cupidatat elit tempor. Voluptate officia exercitation ullamco ullamco incididunt irure reprehenderit deserunt occaecat. Minim excepteur aliquip ullamco elit sint exercitation laboris. Ad deserunt ipsum enim exercitation sint culpa ad cillum culpa nostrud nulla ullamco amet deserunt. Consequat voluptate cillum culpa sunt.
+###Hi Everyone 😊, I am [Prana Apsara Wijaya](https://www.linkedin.com/in/prana-wijaya/) from Jakarta, Indonesia 🇮🇩.
 
-Lorem fugiat consectetur nostrud elit aute do ad duis adipisicing ullamco labore officia dolore. Reprehenderit incididunt incididunt eu sint pariatur minim magna. Ipsum Lorem tempor non est commodo id officia. Exercitation mollit incididunt proident veniam veniam aute. Reprehenderit deserunt magna tempor adipisicing sit dolor non exercitation ut. Exercitation sint dolor ullamco veniam non do deserunt excepteur non nisi. Labore irure culpa esse dolor dolor quis dolore exercitation ad.
+####An experienced Software Engineer with about 3 years of experience in the IT industry, skilled in
 
-Mollit mollit incididunt aute do fugiat mollit. Proident exercitation mollit culpa sint sit enim laborum. Ut do magna ad Lorem. Exercitation cillum dolor Lorem nisi cillum proident aliquip pariatur mollit. Proident est qui duis ullamco duis eu tempor tempor nostrud velit exercitation reprehenderit aliqua Lorem.
+- [Javascript](https://github.com/topics/javascript) <img src="https://emoji.gg/assets/emoji/8009-java-js.png" width="14px" height="14px" alt="Java_Js">
+- [Vue](https://github.com/topics/vue) <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="14px" height="14px" alt="Java_Js"> 
+- [Vuex](https://github.com/topics/vuex)
+- [Nuxt.js](https://github.com/topics/nuxt) <img src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png" width="14px" height="14px" alt="Java_Js">   
+- [Vue router](https://github.com/topics/vue-router) 
+- [Jest](https://github.com/topics/jest) 
+- [Maria Db](https://github.com/topics/mariadb) 
+- CI/CD
 
-Nulla ad fugiat quis in veniam minim adipisicing. Magna fugiat tempor ut esse quis cupidatat quis exercitation officia. Sit laboris enim aliquip in exercitation elit et eu incididunt nostrud exercitation culpa culpa est. Occaecat ea fugiat proident non esse in aliqua occaecat ea labore quis velit deserunt. Irure nostrud nostrud dolor incididunt velit.
+Highly motivated with new challenges and new technologies. Fast learner, hard worker, and detail oriented.
 
-Sint velit Lorem occaecat consectetur eu irure anim incididunt et mollit eu. Adipisicing fugiat tempor excepteur cupidatat cupidatat adipisicing aliqua officia. Tempor veniam commodo laborum et sunt. Ea pariatur ullamco et labore dolor do ad eiusmod magna. Veniam voluptate amet ea sunt aute elit incididunt. Magna deserunt laborum cupidatat commodo mollit in id id ut adipisicing amet.
+<br/>
+
+####Apart from coding, some other activities that I love to do!
+- Playing Games <img src="https://emoji.gg/assets/emoji/3915-cool-alien.png" width="14px" height="14px" alt="cool_alien">
+- Writing Tech Blogs <img src="https://emoji.gg/assets/emoji/2063-worry-hidden-technical.gif" width="14px" height="14px" alt="worry_hidden_Technical">
+- Travelling <a href="https://emoji.gg/emoji/6328-peepoairplane"><img src="https://emoji.gg/assets/emoji/6328-peepoairplane.gif" width="14px" height="14px" alt="peepoAirplane"></a>
+
