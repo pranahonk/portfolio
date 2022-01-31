@@ -61,9 +61,9 @@ mediumexporter [https://medium.com/p/export-your-medium-posts-to-markdown-b5ccc8
 
 If you don’t like command line solutions there are also a **Google Chrome Extensions**, although they’re good and fast the result often does require a bit more editing:
 
-- **[https://chrome.google.com/webstore/detail/convert-medium-posts-to-m/aelnflnmpbjgipamcogpdoppjbebnjea?hl=en](https://chrome.google.com/webstore/detail/convert-medium-posts-to-m/aelnflnmpbjgipamcogpdoppjbebnjea?hl=en)**
-- **[https://chrome.google.com/webstore/detail/export-to-markdown/dodkihcbgpjblncjahodbnlgkkflliim?hl=en](https://chrome.google.com/webstore/detail/export-to-markdown/dodkihcbgpjblncjahodbnlgkkflliim?hl=en)**
-- **[https://chrome.google.com/webstore/detail/medium-article-downloader/nhbfnahbjjaaplgnkffponncahohkfbb?hl=en](https://chrome.google.com/webstore/detail/medium-article-downloader/nhbfnahbjjaaplgnkffponncahohkfbb?hl=en)**
+- **[Export to Markdown](https://chrome.google.com/webstore/detail/convert-medium-posts-to-m/aelnflnmpbjgipamcogpdoppjbebnjea?hl=en)**
+- **[Export to Markdown](https://chrome.google.com/webstore/detail/export-to-markdown/dodkihcbgpjblncjahodbnlgkkflliim?hl=en)**
+- **[Medium Article Downloader](https://chrome.google.com/webstore/detail/medium-article-downloader/nhbfnahbjjaaplgnkffponncahohkfbb?hl=en)**
 
 ![If you enjoyed reading the article don’t forget to applaud.](https://cdn-images-1.medium.com/max/2000/1*eHf64Iyl2VhGN5WVOiu1rw.gif)
 <div style="font-style: italic; text-align: center;" markdown="1">
